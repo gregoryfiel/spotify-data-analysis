@@ -1,0 +1,601 @@
+id,id_artist,query_date,artist_name,followers,artist_popularity,name_song,song_popularity,release_date,album_name,total_tracks
+1,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,Can You Feel My Heart,80,2013-04-01,Sempiternal (Expanded Edition),13
+2,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,DArkSide,79,2023-10-18,DArkSide,1
+3,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,Throne,79,2015-09-11,That's The Spirit,11
+4,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,Kingslayer (feat. BABYMETAL),77,2020-10-30,POST HUMAN: SURVIVAL HORROR,9
+5,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,LosT,76,2023-05-04,LosT,1
+6,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,Drown,76,2015-09-11,That's The Spirit,11
+7,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,sTraNgeRs,74,2022-07-06,sTraNgeRs,1
+8,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,maybe (feat. Bring Me The Horizon),74,2022-03-25,mainstream sellout,16
+9,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,Sleepwalking,74,2013-04-01,Sempiternal (Expanded Edition),13
+10,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-15,Bring Me The Horizon,5249537,77,CODE MISTAKE,73,2023-06-30,CODE MISTAKE,1
+11,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,Popular Monster,78,2019-11-20,Popular Monster,1
+12,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,Watch The World Burn,77,2023-01-31,Watch The World Burn,1
+13,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,Voices In My Head,76,2022-05-31,Voices In My Head,2
+14,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,The Drug In Me Is You,74,2011-07-26,The Drug In Me Is You,11
+15,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,ZOMBIFIED,72,2022-01-05,ZOMBIFIED,1
+16,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,I'm Not A Vampire,70,2011-07-26,The Drug In Me Is You,11
+17,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,Last Resort - Reimagined,70,2023-06-26,Last Resort (Reimagined),1
+18,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,Sexy Drug,68,2015-02-24,Just Like You (Deluxe Edition),14
+19,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,Good Girls Bad Guys,67,2011-07-26,The Drug In Me Is You,11
+20,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-15,Falling In Reverse,2898191,70,Fashionably Late,66,2013-06-18,Fashionably Late (Deluxe Edition),15
+21,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Pink + White,92,2016-08-20,Blonde,17
+22,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Lost,86,2012-07-10,channel ORANGE,17
+23,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Thinkin Bout You,85,2012-07-10,channel ORANGE,17
+24,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Novacane,85,2011-01-01,Novacane,1
+25,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Ivy,84,2016-08-20,Blonde,17
+26,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,White Ferrari,82,2016-08-20,Blonde,17
+27,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Nights,81,2016-08-20,Blonde,17
+28,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Pyramids,80,2012-07-10,channel ORANGE,17
+29,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,Chanel,80,2017-03-10,Chanel,1
+30,2h93pZq0e7k5yf4dywlkpM,2023-12-15,Frank Ocean,12481866,83,In My Room,80,2019-11-02,In My Room,1
+31,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Lapada Dela - Ao Vivo,86,2023-01-20,Confia (Ao Vivo),18
+32,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Pot-Pourri: Melhor Eu Ir / Ligando Os Fatos / Sonho de Amor / Deixa Eu Te Querer - Ao Vivo,76,2020-04-23,Churrasquinho Menos É Mais (Ao Vivo),6
+33,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo),69,2021-05-21,Turma no Quintal (Ao Vivo),20
+34,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Até Que Durou / Tu Mandas No Meu Coração / Adorei / Supera,72,2021-09-23,"Churrasquinho Menos É Mais, Vol. 2",14
+35,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Adorei,71,2021-03-12,Plano Piloto,11
+36,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Para Tudo / Loucura do Seu Coração - Ao Vivo,68,2020-11-06,O Que Rolar Rolou (Ao Vivo),20
+37,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Recaída,69,2020-01-17,Recaída,1
+38,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Iludidão - Ao Vivo,69,2023-01-20,Confia (Ao Vivo),18
+39,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Ah Tá,69,2022-08-26,Ah Tá,1
+40,6vTqEFbTtTRJsuIpzZgjxi,2023-12-15,Grupo Menos É Mais,3101462,73,Vai Me Dando Corda - Ao Vivo,69,2020-04-23,Churrasquinho Menos É Mais (Ao Vivo),6
+41,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),90,1994-11-08,Christmas Songs by Sinatra,14
+42,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Jingle Bells - Remastered 1999,87,1957-09,A Jolly Christmas From Frank Sinatra,15
+43,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Have Yourself A Merry Little Christmas - Remastered 1999,84,1957-09,A Jolly Christmas From Frank Sinatra,15
+44,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Mistletoe And Holly - Remastered 1999,81,1957-09,A Jolly Christmas From Frank Sinatra,15
+45,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Santa Claus Is Comin' to Town,82,1994-11-08,Christmas Songs by Sinatra,14
+46,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Silent Night - 1999 Remaster,80,1957-09,A Jolly Christmas From Frank Sinatra,15
+47,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Fly Me To The Moon (In Other Words),76,1962-12-10,Sinatra/Basie: The Complete Reprise Studio Recordings,20
+48,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,My Way,75,1969-03,My Way (Expanded Edition),12
+49,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,Somethin' Stupid,78,1967-08,The World We Knew,10
+50,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-15,Frank Sinatra,6770729,82,The Christmas Waltz - Remastered 1999,76,1957-09,A Jolly Christmas From Frank Sinatra,15
+51,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,O Descobridor Dos Sete Mares,66,1983-01-03,O Descobridor Dos Sete Mares,10
+52,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Não Quero Dinheiro (Só Quero Amar),65,1971-01-04,Tim Maia 1971,12
+53,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Gostava Tanto De Você,65,1973-01-08,Tim Maia 1973,12
+54,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Azul Da Cor Do Mar,64,1970-01-05,Tim Maia 1970,12
+55,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Eu Amo Você,63,1970-01-05,Tim Maia 1970,12
+56,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Réu Confesso,62,1973-01-08,Tim Maia 1973,12
+57,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Que Beleza,59,2012-07-03,Que Beleza,1
+58,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Você,60,1971-01-04,Tim Maia 1971,12
+59,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Me Dê Motivo,58,1983-01-03,O Descobridor Dos Sete Mares,10
+60,0jOs0wnXCu1bGGP7kh5uIu,2023-12-15,Tim Maia,1797326,61,Acenda o farol,58,2019-11-08,Brazilian Café,49
+61,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Tiro Ao Álvaro,62,1998-01-01,Vento De Maio,13
+62,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Trem Das Onze,64,1974-08-05,Adoniran Barbosa,12
+63,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Saudosa Maloca,59,1974-08-05,Adoniran Barbosa,12
+64,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Samba do Arnesto,56,1975,Adoniran Barbosa,12
+65,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Prova De Carinho,52,1974-08-05,Adoniran Barbosa,12
+66,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Iracema,49,1974-08-05,Adoniran Barbosa,12
+67,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,No Morro Da Casa Verde,44,1975,Adoniran Barbosa,12
+68,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Despejo Na Favela,43,2000-01-01,Bis - Adoniran Barbosa,26
+69,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,Apaga O Fogo Mané,42,2000-01-01,Bis - Adoniran Barbosa,26
+70,7vTlV3ajnMxl5l0ahupUeP,2023-12-15,Adoniran Barbosa,304026,53,As Mariposa,42,1974-08-05,Adoniran Barbosa,12
+71,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,"What Was I Made For? [From The Motion Picture ""Barbie""]",94,2023-07-13,"What Was I Made For? [From The Motion Picture ""Barbie""]",1
+72,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,lovely (with Khalid),90,2018-04-19,lovely (with Khalid),1
+73,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,ocean eyes,85,2017-12-22,dont smile at me,9
+74,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,Happier Than Ever,87,2021-07-30,Happier Than Ever,16
+75,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,TV,86,2022-07-21,Guitar Songs,2
+76,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,everything i wanted,86,2019-11-13,everything i wanted,1
+77,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,when the party's over,85,2019-03-29,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",14
+78,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,hotline (edit),85,2023-05-09,hotline (edit),1
+79,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,bad guy,84,2019-03-29,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",14
+80,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-15,Billie Eilish,90077802,87,Bored,84,2017-03-30,Bored,1
+81,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,House of the Rising Sun (with The Forest Rangers) - Season 4 Finale Version,60,2011-12-06,Songs of Anarchy: Music from Sons of Anarchy Seasons 1-4,16
+82,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,Come Join the Murder - From Sons of Anarchy,59,2014-12-22,Come Join the Murder (From Sons of Anarchy),1
+83,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,Oh Darlin' What Have I Done,57,2010-11-02,Prepare for Black and Blue - EP,5
+84,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,Wish It Was True,48,2012-02-28,Once Upon a Time in the West,13
+85,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,The Whistler,48,2013-09-03,"Shadows, Greys & Evil Ways",14
+86,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,Highwayman,54,2013-03-05,Highwayman,1
+87,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,I Am the Moon,52,2017-10-06,"Darkest Darks, Lightest Lights",10
+88,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,I Got You (feat. Audra Mae),43,2015-08-21,Love and the Death of Damnation,11
+89,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,The Woods,51,2009-03-24,Hogtied Revisited,12
+90,3ohcHMuUq1717s8AH17hfT,2023-12-15,The White Buffalo,515567,54,Set My Body Free,41,2013-09-03,"Shadows, Greys & Evil Ways",14
+91,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Stressed Out,89,2015-05-15,Blurryface,14
+92,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Heathens,85,2016-06-16,Heathens,1
+93,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Ride,84,2015-05-15,Blurryface,14
+94,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Tear in My Heart,77,2015-05-15,Blurryface,14
+95,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Chlorine,76,2018-10-05,Trench,14
+96,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Doubt,72,2015-05-15,Blurryface,14
+97,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Car Radio,71,2013-01-08,Vessel,12
+98,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,House of Gold,71,2013-01-08,Vessel,12
+99,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Heavydirtysoul,71,2015-05-15,Blurryface,14
+100,3YQKmKGau1PzlVlkL1iodx,2023-12-15,Twenty One Pilots,24228621,78,Shy Away,71,2021-05-21,Scaled And Icy,11
+101,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,I Wanna Be Yours,95,2013-09-09,AM,12
+102,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,505,88,2007-04-22,Favourite Worst Nightmare,12
+103,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,Why'd You Only Call Me When You're High?,90,2013-09-09,AM,12
+104,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,Do I Wanna Know?,90,2013-09-09,AM,12
+105,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,R U Mine?,85,2013-09-09,AM,12
+106,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,Fluorescent Adolescent,81,2007-04-22,Favourite Worst Nightmare,12
+107,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,Snap Out Of It,82,2013-09-09,AM,12
+108,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,Arabella,80,2013-09-09,AM,12
+109,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,Knee Socks,78,2013-09-09,AM,12
+110,7Ln80lUS6He07XvHI8qqHH,2023-12-15,Arctic Monkeys,22805725,85,Mardy Bum,78,2006-01-29,"Whatever People Say I Am, That's What I'm Not",13
+111,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,Everlong,87,1997-05-20,The Colour And The Shape,14
+112,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,The Pretender,82,2007-09-25,"Echoes, Silence, Patience & Grace",12
+113,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,Learn to Fly,79,1999-11-02,There Is Nothing Left To Lose,11
+114,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,Best of You,79,2005-06-14,In Your Honor,20
+115,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,My Hero,78,1997-05-20,The Colour And The Shape,14
+116,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,All My Life,76,2002-10-22,One By One (Expanded Edition),17
+117,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,Times Like These,72,2002-10-22,One By One (Expanded Edition),17
+118,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,Monkey Wrench,72,1997-05-20,The Colour And The Shape,14
+119,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,Walk,72,2011-04-12,Wasting Light,11
+120,7jy3rLJdDQY21OgRLCZ9sD,2023-12-15,Foo Fighters,11503937,76,Everlong - Acoustic Version,70,2009-11-03,Greatest Hits,16
+121,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,Highway to Hell,86,1979-07-27,Highway to Hell,10
+122,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,Thunderstruck,86,1990-09-24,The Razors Edge,12
+123,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,Back In Black,85,1980-07-25,Back In Black,10
+124,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,You Shook Me All Night Long,84,1980-07-25,Back In Black,10
+125,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,T.N.T.,80,1976-05-14,High Voltage,9
+126,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,Hells Bells,76,1980-07-25,Back In Black,10
+127,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,Shoot to Thrill,75,1980-07-25,Back In Black,10
+128,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,Dirty Deeds Done Dirt Cheap,75,1976-09-20,Dirty Deeds Done Dirt Cheap,9
+129,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),74,1976-05-14,High Voltage,9
+130,711MCceyCBcFnzjGY4Q7Un,2023-12-15,AC/DC,27854001,78,Rock N Roll Train,72,2008-10-20,Black Ice,15
+131,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,The Downfall Of Us All,72,2009-02-03,Homesick,12
+132,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,If It Means A Lot To You,71,2009-02-03,Homesick,12
+133,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,All I Want,70,2010-11-16,What Separates Me From You,10
+134,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,All Signs Point To Lauderdale,69,2010-11-16,What Separates Me From You,10
+135,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,"I'm Made Of Wax, Larry, What Are You Made Of?",68,2009-02-03,Homesick,12
+136,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,Miracle,67,2022-07-21,Miracle,1
+137,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,Have Faith In Me,66,2009-02-03,Homesick,12
+138,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,Paranoia,65,2016-09-02,Bad Vibrations (Deluxe Edition),13
+139,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,Mr. Highway's Thinking About The End,65,2009-02-03,Homesick,12
+140,4NiJW4q9ichVqL1aUsgGAN,2023-12-15,A Day To Remember,2299772,67,Since U Been Gone,64,2007-01-22,For Those Who Have Heart (Deluxe Edition),26
+141,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,Teenagers,84,2006-10-23,The Black Parade,14
+142,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,Welcome to the Black Parade,81,2006-10-23,The Black Parade,14
+143,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,I'm Not Okay (I Promise),80,2004-06-08,Three Cheers for Sweet Revenge,13
+144,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,Helena,79,2004-06-08,Three Cheers for Sweet Revenge,13
+145,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,Disenchanted,76,2006-10-23,The Black Parade,14
+146,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,Famous Last Words,75,2006-10-23,The Black Parade,14
+147,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,I Don't Love You,75,2006-10-23,The Black Parade,14
+148,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,The Ghost of You,73,2004-06-08,Three Cheers for Sweet Revenge,13
+149,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,Cancer,73,2006-10-23,The Black Parade,14
+150,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-15,My Chemical Romance,8154616,76,Na Na Na (Na Na Na Na Na Na Na Na Na),72,2010-11-05,Danger Days: The True Lives of the Fabulous Killjoys,15
+151,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Do Fundo da Grota,60,2001-03-11,Meu Rio Grande É Desse Jeito,12
+152,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Nego Bom Não Se Mistura,47,2017-03-01,Rodeio Campeiro,15
+153,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Castração a Pialo,45,2010-03-10,Estampa de Galpão,13
+154,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Pedido de um Pai Pra Filho,44,2017-10-19,Marca de Campo,15
+155,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,História do Tico Louco,43,2001-03-11,Meu Rio Grande É Desse Jeito,12
+156,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Meu Rio Grande É Desse Jeito,36,2001-03-11,Meu Rio Grande É Desse Jeito,12
+157,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Mal Falquejado,41,2017-10-19,Marca de Campo,15
+158,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Reformando a Mulher Véia,41,2017-03-01,Rodeio Campeiro,15
+159,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,Secretário de Obra,41,2017-10-19,Marca de Campo,15
+160,3Qr4KjBoZj14d28vWulbA8,2023-12-15,Baitaca,130787,47,O Novo Encontro Com o Tico,40,2014-01-06,"O Melhor do Baitaca, Vol. 1",15
+161,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Cornfield Chase,78,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+162,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Time,75,2010-07-09,Inception (Music from the Motion Picture),12
+163,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Now We Are Free,66,2020-05-09,Gladiator: 20th Anniversary Edition,35
+164,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Day One (Interstellar Theme),70,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+165,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Pompeii MMXXIII,62,2023-07-14,Bad Blood X (10th Anniversary Edition),33
+166,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Honor Him,66,2020-05-09,Gladiator: 20th Anniversary Edition,35
+167,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,S.T.A.Y.,66,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+168,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Mountains,65,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+169,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack,64,2006-01-01,The Da Vinci Code,14
+170,0YC192cP3KPCRWx8zr8MfZ,2023-12-15,Hans Zimmer,3640791,75,This Land,64,1994-01-01,The Lion King,12
+171,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Baile do Bruxo,88,2023-09-29,Baile do Bruxo,6
+172,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Química Bandida,54,2021-06-25,Química Bandida,1
+173,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Oclin e Evoque,52,2020-12-22,Oclin e Evoque,1
+174,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,O Melhor Dia da Sua Vida é Hoje,51,2023-09-29,Baile do Bruxo,6
+175,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Ondinha da Amarula,50,2023-09-29,Baile do Bruxo,6
+176,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Coração,49,2023-09-29,Baile do Bruxo,6
+177,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Proibido Celular,47,2021-10-07,Proibido Celular,1
+178,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,R10 Faz um Convite,47,2023-09-29,Baile do Bruxo,6
+179,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Na Área dos Boys,47,2022-01-21,Na Área dos Boys,1
+180,4s3lxX76LwxzMdQEAFYdzv,2023-12-15,Tropa do Bruxo,180676,66,Todo Aleatório,46,2023-09-29,Baile do Bruxo,6
+181,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Faz um Vuk Vuk (Teto Espelhado),85,2023-07-20,Faz um Vuk Vuk (Teto Espelhado),1
+182,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Tá OK,84,2023-05-04,Tá OK,1
+183,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Tá OK (Remix),81,2023-08-03,Tá OK (Remix),2
+184,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Papin,77,2022-11-04,Tamborzão Raiz,8
+185,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Aquecimento Senta Senta Suave,74,2022-11-04,Tamborzão Raiz,8
+186,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Terror da Cidade,69,2023-06-20,Terror da Cidade,1
+187,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Poesia Acústica #7: Céu Azul,68,2019-07-06,Poesia Acústica #7: Céu Azul,1
+188,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Ela É do Tipo,67,2019-03-07,Ela É do Tipo,1
+189,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Incendeia,54,2022-08-10,Sonho de Garoto (Deluxe),20
+190,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-15,MC Kevin o Chris,3182914,74,Vamos pra Gaiola,63,2019-01-11,Vamos pra Gaiola,1
+191,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Novidade na Área,83,2023-06-23,Novidade na Área,1
+192,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Bailarina,68,2023-10-11,Bailarina,1
+193,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Homenagem Aos Relíquias 6,63,2023-11-16,Medo É Só Ilusão,15
+194,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Pocotó,68,2023-07-06,Pocotó,1
+195,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Fazer Falta,68,2017-05-25,Fazer Falta,1
+196,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Hoje Eu Vou Parar Na Gaiola,66,2018-10-17,Hoje Eu Vou Parar Na Gaiola,1
+197,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Modo Safado,59,2023-11-27,Modo Safado,1
+198,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Se Prepara 2,66,2019-10-01,Se Prepara 2,1
+199,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Ela Vem,65,2019-06-18,Ela Vem,1
+200,7me0S5Z40qVWj3gzyK8aC3,2023-12-15,Mc Livinho,7518008,68,Na Movimentação (feat. Faixa Rosa),64,2022-08-11,Na Movimentação (feat. Faixa Rosa),1
+201,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,Can You Feel My Heart,80,2013-04-01,Sempiternal (Expanded Edition),13
+202,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,DArkSide,78,2023-10-18,DArkSide,1
+203,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,Throne,78,2015-09-11,That's The Spirit,11
+204,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,Kingslayer (feat. BABYMETAL),77,2020-10-30,POST HUMAN: SURVIVAL HORROR,9
+205,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,LosT,76,2023-05-04,LosT,1
+206,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,Drown,75,2015-09-11,That's The Spirit,11
+207,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,sTraNgeRs,74,2022-07-06,sTraNgeRs,1
+208,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,maybe (feat. Bring Me The Horizon),73,2022-03-25,mainstream sellout,16
+209,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,Sleepwalking,73,2013-04-01,Sempiternal (Expanded Edition),13
+210,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-19,Bring Me The Horizon,5244914,77,CODE MISTAKE,72,2023-06-30,CODE MISTAKE,1
+211,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,Popular Monster,78,2019-11-20,Popular Monster,1
+212,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,Watch The World Burn,77,2023-01-31,Watch The World Burn,1
+213,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,Voices In My Head,75,2022-05-31,Voices In My Head,2
+214,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,The Drug In Me Is You,74,2011-07-26,The Drug In Me Is You,11
+215,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,ZOMBIFIED,72,2022-01-05,ZOMBIFIED,1
+216,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,I'm Not A Vampire,70,2011-07-26,The Drug In Me Is You,11
+217,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,Last Resort - Reimagined,70,2023-06-26,Last Resort (Reimagined),1
+218,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,Sexy Drug,67,2015-02-24,Just Like You (Deluxe Edition),14
+219,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,Good Girls Bad Guys,67,2011-07-26,The Drug In Me Is You,11
+220,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-19,Falling In Reverse,2898020,70,Fashionably Late,65,2013-06-18,Fashionably Late (Deluxe Edition),15
+221,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Pink + White,91,2016-08-20,Blonde,17
+222,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Lost,85,2012-07-10,channel ORANGE,17
+223,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Thinkin Bout You,85,2012-07-10,channel ORANGE,17
+224,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Novacane,84,2011-01-01,Novacane,1
+225,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Ivy,84,2016-08-20,Blonde,17
+226,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,White Ferrari,82,2016-08-20,Blonde,17
+227,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Nights,81,2016-08-20,Blonde,17
+228,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Pyramids,80,2012-07-10,channel ORANGE,17
+229,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,Chanel,80,2017-03-10,Chanel,1
+230,2h93pZq0e7k5yf4dywlkpM,2023-12-19,Frank Ocean,12496448,83,In My Room,79,2019-11-02,In My Room,1
+231,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Lapada Dela - Ao Vivo,86,2023-01-20,Confia (Ao Vivo),18
+232,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Pot-Pourri: Melhor Eu Ir / Ligando Os Fatos / Sonho de Amor / Deixa Eu Te Querer - Ao Vivo,76,2020-04-23,Churrasquinho Menos É Mais (Ao Vivo),6
+233,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo),69,2021-05-21,Turma no Quintal (Ao Vivo),20
+234,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Adorei,71,2021-03-12,Plano Piloto,11
+235,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Até Que Durou / Tu Mandas No Meu Coração / Adorei / Supera,72,2021-09-23,"Churrasquinho Menos É Mais, Vol. 2",14
+236,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Para Tudo / Loucura do Seu Coração - Ao Vivo,68,2020-11-06,O Que Rolar Rolou (Ao Vivo),20
+237,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Recaída,69,2020-01-17,Recaída,1
+238,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Iludidão - Ao Vivo,69,2023-01-20,Confia (Ao Vivo),18
+239,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Vai Me Dando Corda - Ao Vivo,69,2020-04-23,Churrasquinho Menos É Mais (Ao Vivo),6
+240,6vTqEFbTtTRJsuIpzZgjxi,2023-12-19,Grupo Menos É Mais,3111581,74,Ah Tá,69,2022-08-26,Ah Tá,1
+241,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),90,1994-11-08,Christmas Songs by Sinatra,14
+242,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Jingle Bells - Remastered 1999,88,1957-09,A Jolly Christmas From Frank Sinatra,15
+243,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Have Yourself A Merry Little Christmas - Remastered 1999,84,1957-09,A Jolly Christmas From Frank Sinatra,15
+244,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Mistletoe And Holly - Remastered 1999,81,1957-09,A Jolly Christmas From Frank Sinatra,15
+245,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Santa Claus Is Comin' to Town,83,1994-11-08,Christmas Songs by Sinatra,14
+246,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Silent Night - 1999 Remaster,80,1957-09,A Jolly Christmas From Frank Sinatra,15
+247,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Fly Me To The Moon (In Other Words),75,1962-12-10,Sinatra/Basie: The Complete Reprise Studio Recordings,20
+248,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,My Way,75,1969-03,My Way (Expanded Edition),12
+249,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,Somethin' Stupid,78,1967-08,The World We Knew,10
+250,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-19,Frank Sinatra,6769413,83,The Christmas Waltz - Remastered 1999,76,1957-09,A Jolly Christmas From Frank Sinatra,15
+251,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,O Descobridor Dos Sete Mares,66,1983-01-03,O Descobridor Dos Sete Mares,10
+252,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Não Quero Dinheiro (Só Quero Amar),65,1971-01-04,Tim Maia 1971,12
+253,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Gostava Tanto De Você,65,1973-01-08,Tim Maia 1973,12
+254,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Azul Da Cor Do Mar,64,1970-01-05,Tim Maia 1970,12
+255,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Eu Amo Você,63,1970-01-05,Tim Maia 1970,12
+256,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Réu Confesso,62,1973-01-08,Tim Maia 1973,12
+257,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Que Beleza,59,2012-07-03,Que Beleza,1
+258,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Você,60,1971-01-04,Tim Maia 1971,12
+259,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Me Dê Motivo,58,1983-01-03,O Descobridor Dos Sete Mares,10
+260,0jOs0wnXCu1bGGP7kh5uIu,2023-12-19,Tim Maia,1794834,61,Acenda o farol,57,2019-11-08,Brazilian Café,49
+261,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Tiro Ao Álvaro,62,1998-01-01,Vento De Maio,13
+262,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Trem Das Onze,64,1974-08-05,Adoniran Barbosa,12
+263,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Saudosa Maloca,59,1974-08-05,Adoniran Barbosa,12
+264,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Samba do Arnesto,56,1975,Adoniran Barbosa,12
+265,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Prova De Carinho,51,1974-08-05,Adoniran Barbosa,12
+266,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Iracema,49,1974-08-05,Adoniran Barbosa,12
+267,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,No Morro Da Casa Verde,44,1975,Adoniran Barbosa,12
+268,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Despejo Na Favela,43,2000-01-01,Bis - Adoniran Barbosa,26
+269,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,Apaga O Fogo Mané,42,2000-01-01,Bis - Adoniran Barbosa,26
+270,7vTlV3ajnMxl5l0ahupUeP,2023-12-19,Adoniran Barbosa,303821,53,As Mariposa,42,1974-08-05,Adoniran Barbosa,12
+271,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,"What Was I Made For? [From The Motion Picture ""Barbie""]",93,2023-07-13,"What Was I Made For? [From The Motion Picture ""Barbie""]",1
+272,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,lovely (with Khalid),90,2018-04-19,lovely (with Khalid),1
+273,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,ocean eyes,84,2017-12-22,dont smile at me,9
+274,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,Happier Than Ever,86,2021-07-30,Happier Than Ever,16
+275,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,TV,86,2022-07-21,Guitar Songs,2
+276,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,everything i wanted,86,2019-11-13,everything i wanted,1
+277,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,when the party's over,85,2019-03-29,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",14
+278,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,hotline (edit),85,2023-05-09,hotline (edit),1
+279,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,bad guy,84,2019-03-29,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",14
+280,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-19,Billie Eilish,90108658,87,Bored,84,2017-03-30,Bored,1
+281,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,House of the Rising Sun (with The Forest Rangers) - Season 4 Finale Version,59,2011-12-06,Songs of Anarchy: Music from Sons of Anarchy Seasons 1-4,16
+282,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,Come Join the Murder - From Sons of Anarchy,59,2014-12-22,Come Join the Murder (From Sons of Anarchy),1
+283,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,Oh Darlin' What Have I Done,57,2010-11-02,Prepare for Black and Blue - EP,5
+284,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,Wish It Was True,48,2012-02-28,Once Upon a Time in the West,13
+285,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,The Whistler,48,2013-09-03,"Shadows, Greys & Evil Ways",14
+286,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,Highwayman,54,2013-03-05,Highwayman,1
+287,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,I Am the Moon,52,2017-10-06,"Darkest Darks, Lightest Lights",10
+288,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,I Got You (feat. Audra Mae),43,2015-08-21,Love and the Death of Damnation,11
+289,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,The Woods,51,2009-03-24,Hogtied Revisited,12
+290,3ohcHMuUq1717s8AH17hfT,2023-12-19,The White Buffalo,515549,54,Set My Body Free,41,2013-09-03,"Shadows, Greys & Evil Ways",14
+291,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Stressed Out,88,2015-05-15,Blurryface,14
+292,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Heathens,84,2016-06-16,Heathens,1
+293,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Ride,84,2015-05-15,Blurryface,14
+294,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Tear in My Heart,77,2015-05-15,Blurryface,14
+295,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Chlorine,76,2018-10-05,Trench,14
+296,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Doubt,71,2015-05-15,Blurryface,14
+297,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Car Radio,71,2013-01-08,Vessel,12
+298,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,House of Gold,71,2013-01-08,Vessel,12
+299,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Heavydirtysoul,71,2015-05-15,Blurryface,14
+300,3YQKmKGau1PzlVlkL1iodx,2023-12-19,Twenty One Pilots,24161673,78,Shy Away,70,2021-05-21,Scaled And Icy,11
+301,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,I Wanna Be Yours,95,2013-09-09,AM,12
+302,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,505,87,2007-04-22,Favourite Worst Nightmare,12
+303,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,Why'd You Only Call Me When You're High?,90,2013-09-09,AM,12
+304,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,Do I Wanna Know?,90,2013-09-09,AM,12
+305,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,R U Mine?,84,2013-09-09,AM,12
+306,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,Fluorescent Adolescent,81,2007-04-22,Favourite Worst Nightmare,12
+307,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,Snap Out Of It,82,2013-09-09,AM,12
+308,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,Arabella,79,2013-09-09,AM,12
+309,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,Knee Socks,78,2013-09-09,AM,12
+310,7Ln80lUS6He07XvHI8qqHH,2023-12-19,Arctic Monkeys,22831296,85,Mardy Bum,77,2006-01-29,"Whatever People Say I Am, That's What I'm Not",13
+311,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,Everlong,86,1997-05-20,The Colour And The Shape,14
+312,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,The Pretender,81,2007-09-25,"Echoes, Silence, Patience & Grace",12
+313,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,Learn to Fly,79,1999-11-02,There Is Nothing Left To Lose,11
+314,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,Best of You,78,2005-06-14,In Your Honor,20
+315,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,My Hero,78,1997-05-20,The Colour And The Shape,14
+316,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,All My Life,75,2002-10-22,One By One (Expanded Edition),17
+317,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,Times Like These,71,2002-10-22,One By One (Expanded Edition),17
+318,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,Monkey Wrench,72,1997-05-20,The Colour And The Shape,14
+319,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,Walk,72,2011-04-12,Wasting Light,11
+320,7jy3rLJdDQY21OgRLCZ9sD,2023-12-19,Foo Fighters,11483361,76,Everlong - Acoustic Version,70,2009-11-03,Greatest Hits,16
+321,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,Highway to Hell,86,1979-07-27,Highway to Hell,10
+322,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,Thunderstruck,85,1990-09-24,The Razors Edge,12
+323,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,Back In Black,85,1980-07-25,Back In Black,10
+324,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,You Shook Me All Night Long,84,1980-07-25,Back In Black,10
+325,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,T.N.T.,79,1976-05-14,High Voltage,9
+326,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,Hells Bells,76,1980-07-25,Back In Black,10
+327,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,Shoot to Thrill,75,1980-07-25,Back In Black,10
+328,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,Dirty Deeds Done Dirt Cheap,75,1976-09-20,Dirty Deeds Done Dirt Cheap,9
+329,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),73,1976-05-14,High Voltage,9
+330,711MCceyCBcFnzjGY4Q7Un,2023-12-19,AC/DC,27800899,79,Rock N Roll Train,72,2008-10-20,Black Ice,15
+331,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,The Downfall Of Us All,71,2009-02-03,Homesick,12
+332,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,If It Means A Lot To You,71,2009-02-03,Homesick,12
+333,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,All I Want,70,2010-11-16,What Separates Me From You,10
+334,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,All Signs Point To Lauderdale,68,2010-11-16,What Separates Me From You,10
+335,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,"I'm Made Of Wax, Larry, What Are You Made Of?",67,2009-02-03,Homesick,12
+336,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,Miracle,66,2022-07-21,Miracle,1
+337,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,Have Faith In Me,66,2009-02-03,Homesick,12
+338,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,Paranoia,65,2016-09-02,Bad Vibrations (Deluxe Edition),13
+339,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,Mr. Highway's Thinking About The End,64,2009-02-03,Homesick,12
+340,4NiJW4q9ichVqL1aUsgGAN,2023-12-19,A Day To Remember,2292963,67,Since U Been Gone,64,2007-01-22,For Those Who Have Heart (Deluxe Edition),26
+341,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,Teenagers,84,2006-10-23,The Black Parade,14
+342,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,Welcome to the Black Parade,80,2006-10-23,The Black Parade,14
+343,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,I'm Not Okay (I Promise),79,2004-06-08,Three Cheers for Sweet Revenge,13
+344,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,Helena,79,2004-06-08,Three Cheers for Sweet Revenge,13
+345,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,Disenchanted,76,2006-10-23,The Black Parade,14
+346,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,Famous Last Words,75,2006-10-23,The Black Parade,14
+347,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,I Don't Love You,74,2006-10-23,The Black Parade,14
+348,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,The Ghost of You,73,2004-06-08,Three Cheers for Sweet Revenge,13
+349,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,Cancer,73,2006-10-23,The Black Parade,14
+350,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-19,My Chemical Romance,8144895,76,Na Na Na (Na Na Na Na Na Na Na Na Na),71,2010-11-05,Danger Days: The True Lives of the Fabulous Killjoys,15
+351,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Do Fundo da Grota,60,2001-03-11,Meu Rio Grande É Desse Jeito,12
+352,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Nego Bom Não Se Mistura,47,2017-03-01,Rodeio Campeiro,15
+353,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Castração a Pialo,45,2010-03-10,Estampa de Galpão,13
+354,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Pedido de um Pai Pra Filho,45,2017-10-19,Marca de Campo,15
+355,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,História do Tico Louco,44,2001-03-11,Meu Rio Grande É Desse Jeito,12
+356,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Meu Rio Grande É Desse Jeito,37,2001-03-11,Meu Rio Grande É Desse Jeito,12
+357,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Reformando a Mulher Véia,41,2017-03-01,Rodeio Campeiro,15
+358,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Mal Falquejado,41,2017-10-19,Marca de Campo,15
+359,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,Secretário de Obra,41,2017-10-19,Marca de Campo,15
+360,3Qr4KjBoZj14d28vWulbA8,2023-12-19,Baitaca,130690,48,O Novo Encontro Com o Tico,40,2014-01-06,"O Melhor do Baitaca, Vol. 1",15
+361,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Cornfield Chase,77,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+362,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Time,74,2010-07-09,Inception (Music from the Motion Picture),12
+363,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Now We Are Free,66,2020-05-09,Gladiator: 20th Anniversary Edition,35
+364,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Day One (Interstellar Theme),70,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+365,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Pompeii MMXXIII,61,2023-07-14,Bad Blood X (10th Anniversary Edition),33
+366,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Honor Him,65,2020-05-09,Gladiator: 20th Anniversary Edition,35
+367,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,S.T.A.Y.,65,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+368,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Mountains,64,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+369,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack,64,2006-01-01,The Da Vinci Code,14
+370,0YC192cP3KPCRWx8zr8MfZ,2023-12-19,Hans Zimmer,3640898,75,This Land,63,1994-01-01,The Lion King,12
+371,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Baile do Bruxo,88,2023-09-29,Baile do Bruxo,6
+372,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Química Bandida,54,2021-06-25,Química Bandida,1
+373,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Oclin e Evoque,51,2020-12-22,Oclin e Evoque,1
+374,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,O Melhor Dia da Sua Vida é Hoje,51,2023-09-29,Baile do Bruxo,6
+375,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Ondinha da Amarula,49,2023-09-29,Baile do Bruxo,6
+376,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Coração,49,2023-09-29,Baile do Bruxo,6
+377,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Proibido Celular,47,2021-10-07,Proibido Celular,1
+378,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,R10 Faz um Convite,47,2023-09-29,Baile do Bruxo,6
+379,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Na Área dos Boys,46,2022-01-21,Na Área dos Boys,1
+380,4s3lxX76LwxzMdQEAFYdzv,2023-12-19,Tropa do Bruxo,182795,66,Todo Aleatório,46,2023-09-29,Baile do Bruxo,6
+381,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Faz um Vuk Vuk (Teto Espelhado),85,2023-07-20,Faz um Vuk Vuk (Teto Espelhado),1
+382,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Tá OK,84,2023-05-04,Tá OK,1
+383,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Tá OK (Remix),81,2023-08-03,Tá OK (Remix),2
+384,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Papin,76,2022-11-04,Tamborzão Raiz,8
+385,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Aquecimento Senta Senta Suave,74,2022-11-04,Tamborzão Raiz,8
+386,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Terror da Cidade,69,2023-06-20,Terror da Cidade,1
+387,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Poesia Acústica #7: Céu Azul,68,2019-07-06,Poesia Acústica #7: Céu Azul,1
+388,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Ela É do Tipo,67,2019-03-07,Ela É do Tipo,1
+389,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Incendeia,53,2022-08-10,Sonho de Garoto (Deluxe),20
+390,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-19,MC Kevin o Chris,3148567,74,Vamos pra Gaiola,63,2019-01-11,Vamos pra Gaiola,1
+391,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Novidade na Área,82,2023-06-23,Novidade na Área,1
+392,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Homenagem Aos Relíquias 6,63,2023-11-16,Medo É Só Ilusão,15
+393,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Fazer Falta,67,2017-05-25,Fazer Falta,1
+394,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Pocotó,67,2023-07-06,Pocotó,1
+395,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Bailarina,67,2023-10-11,Bailarina,1
+396,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Modo Safado,59,2023-11-27,Modo Safado,1
+397,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Hoje Eu Vou Parar Na Gaiola,66,2018-10-17,Hoje Eu Vou Parar Na Gaiola,1
+398,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Se Prepara 2,65,2019-10-01,Se Prepara 2,1
+399,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Ela Vem,65,2019-06-18,Ela Vem,1
+400,7me0S5Z40qVWj3gzyK8aC3,2023-12-19,Mc Livinho,7435211,68,Na Movimentação (feat. Faixa Rosa),64,2022-08-11,Na Movimentação (feat. Faixa Rosa),1
+401,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,Can You Feel My Heart,80,2013-04-01,Sempiternal (Expanded Edition),13
+402,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,DArkSide,78,2023-10-18,DArkSide,1
+403,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,Throne,78,2015-09-11,That's The Spirit,11
+404,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,Kingslayer (feat. BABYMETAL),76,2020-10-30,POST HUMAN: SURVIVAL HORROR,9
+405,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,LosT,75,2023-05-04,LosT,1
+406,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,Drown,75,2015-09-11,That's The Spirit,11
+407,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,maybe (feat. Bring Me The Horizon),73,2022-03-25,mainstream sellout,16
+408,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,sTraNgeRs,73,2022-07-06,sTraNgeRs,1
+409,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,Sleepwalking,73,2013-04-01,Sempiternal (Expanded Edition),13
+410,1Ffb6ejR6Fe5IamqA5oRUF,2023-12-21,Bring Me The Horizon,5239348,77,CODE MISTAKE,72,2023-06-30,CODE MISTAKE,1
+411,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,Popular Monster,78,2019-11-20,Popular Monster,1
+412,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,Watch The World Burn,77,2023-01-31,Watch The World Burn,1
+413,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,Voices In My Head,75,2022-05-31,Voices In My Head,2
+414,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,The Drug In Me Is You,74,2011-07-26,The Drug In Me Is You,11
+415,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,ZOMBIFIED,72,2022-01-05,ZOMBIFIED,1
+416,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,Last Resort - Reimagined,70,2023-06-26,Last Resort (Reimagined),1
+417,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,I'm Not A Vampire,70,2011-07-26,The Drug In Me Is You,11
+418,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,Sexy Drug,67,2015-02-24,Just Like You (Deluxe Edition),14
+419,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,Good Girls Bad Guys,67,2011-07-26,The Drug In Me Is You,11
+420,2CmaKO2zEGJ1NWpS1yfVGz,2023-12-21,Falling In Reverse,2896848,70,Fashionably Late,65,2013-06-18,Fashionably Late (Deluxe Edition),15
+421,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Pink + White,91,2016-08-20,Blonde,17
+422,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Lost,85,2012-07-10,channel ORANGE,17
+423,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Thinkin Bout You,84,2012-07-10,channel ORANGE,17
+424,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Novacane,84,2011-01-01,Novacane,1
+425,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Ivy,83,2016-08-20,Blonde,17
+426,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,White Ferrari,82,2016-08-20,Blonde,17
+427,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Nights,81,2016-08-20,Blonde,17
+428,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Pyramids,80,2012-07-10,channel ORANGE,17
+429,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,Chanel,79,2017-03-10,Chanel,1
+430,2h93pZq0e7k5yf4dywlkpM,2023-12-21,Frank Ocean,12496975,83,In My Room,79,2019-11-02,In My Room,1
+431,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Lapada Dela - Ao Vivo,86,2023-01-20,Confia (Ao Vivo),18
+432,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Pot-Pourri: Melhor Eu Ir / Ligando Os Fatos / Sonho de Amor / Deixa Eu Te Querer - Ao Vivo,76,2020-04-23,Churrasquinho Menos É Mais (Ao Vivo),6
+433,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo),69,2021-05-21,Turma no Quintal (Ao Vivo),20
+434,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Adorei,71,2021-03-12,Plano Piloto,11
+435,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Até Que Durou / Tu Mandas No Meu Coração / Adorei / Supera,71,2021-09-23,"Churrasquinho Menos É Mais, Vol. 2",14
+436,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Para Tudo / Loucura do Seu Coração - Ao Vivo,68,2020-11-06,O Que Rolar Rolou (Ao Vivo),20
+437,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Recaída,69,2020-01-17,Recaída,1
+438,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Iludidão - Ao Vivo,69,2023-01-20,Confia (Ao Vivo),18
+439,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Vai Me Dando Corda - Ao Vivo,69,2020-04-23,Churrasquinho Menos É Mais (Ao Vivo),6
+440,6vTqEFbTtTRJsuIpzZgjxi,2023-12-21,Grupo Menos É Mais,3115970,74,Ah Tá,68,2022-08-26,Ah Tá,1
+441,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),90,1994-11-08,Christmas Songs by Sinatra,14
+442,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Jingle Bells - Remastered 1999,88,1957-09,A Jolly Christmas From Frank Sinatra,15
+443,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Have Yourself A Merry Little Christmas - Remastered 1999,84,1957-09,A Jolly Christmas From Frank Sinatra,15
+444,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Mistletoe And Holly - Remastered 1999,81,1957-09,A Jolly Christmas From Frank Sinatra,15
+445,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Santa Claus Is Comin' to Town,83,1994-11-08,Christmas Songs by Sinatra,14
+446,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Silent Night - 1999 Remaster,80,1957-09,A Jolly Christmas From Frank Sinatra,15
+447,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Fly Me To The Moon (In Other Words),75,1962-12-10,Sinatra/Basie: The Complete Reprise Studio Recordings,20
+448,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,My Way,75,1969-03,My Way (Expanded Edition),12
+449,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,Somethin' Stupid,77,1967-08,The World We Knew,10
+450,1Mxqyy3pSjf8kZZL4QVxS0,2023-12-21,Frank Sinatra,6764399,83,The Christmas Waltz - Remastered 1999,76,1957-09,A Jolly Christmas From Frank Sinatra,15
+451,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,O Descobridor Dos Sete Mares,65,1983-01-03,O Descobridor Dos Sete Mares,10
+452,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Não Quero Dinheiro (Só Quero Amar),65,1971-01-04,Tim Maia 1971,12
+453,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Gostava Tanto De Você,65,1973-01-08,Tim Maia 1973,12
+454,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Azul Da Cor Do Mar,64,1970-01-05,Tim Maia 1970,12
+455,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Eu Amo Você,63,1970-01-05,Tim Maia 1970,12
+456,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Réu Confesso,62,1973-01-08,Tim Maia 1973,12
+457,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Que Beleza,58,2012-07-03,Que Beleza,1
+458,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Você,60,1971-01-04,Tim Maia 1971,12
+459,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Me Dê Motivo,57,1983-01-03,O Descobridor Dos Sete Mares,10
+460,0jOs0wnXCu1bGGP7kh5uIu,2023-12-21,Tim Maia,1792434,61,Acenda o farol,57,2019-11-08,Brazilian Café,49
+461,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Tiro Ao Álvaro,62,1998-01-01,Vento De Maio,13
+462,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Trem Das Onze,64,1974-08-05,Adoniran Barbosa,12
+463,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Saudosa Maloca,59,1974-08-05,Adoniran Barbosa,12
+464,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Samba do Arnesto,56,1975,Adoniran Barbosa,12
+465,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Prova De Carinho,51,1974-08-05,Adoniran Barbosa,12
+466,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Iracema,48,1974-08-05,Adoniran Barbosa,12
+467,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Despejo Na Favela,43,2000-01-01,Bis - Adoniran Barbosa,26
+468,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,No Morro Da Casa Verde,43,1975,Adoniran Barbosa,12
+469,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,Apaga O Fogo Mané,41,2000-01-01,Bis - Adoniran Barbosa,26
+470,7vTlV3ajnMxl5l0ahupUeP,2023-12-21,Adoniran Barbosa,303518,53,As Mariposa,41,1974-08-05,Adoniran Barbosa,12
+471,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,"What Was I Made For? [From The Motion Picture ""Barbie""]",93,2023-07-13,"What Was I Made For? [From The Motion Picture ""Barbie""]",1
+472,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,lovely (with Khalid),90,2018-04-19,lovely (with Khalid),1
+473,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,ocean eyes,84,2017-12-22,dont smile at me,9
+474,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,Happier Than Ever,86,2021-07-30,Happier Than Ever,16
+475,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,TV,86,2022-07-21,Guitar Songs,2
+476,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,everything i wanted,85,2019-11-13,everything i wanted,1
+477,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,when the party's over,85,2019-03-29,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",14
+478,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,hotline (edit),84,2023-05-09,hotline (edit),1
+479,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,bad guy,84,2019-03-29,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",14
+480,6qqNVTkY8uBg9cP3Jd7DAH,2023-12-21,Billie Eilish,90084481,87,Bored,84,2017-03-30,Bored,1
+481,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,House of the Rising Sun (with The Forest Rangers) - Season 4 Finale Version,59,2011-12-06,Songs of Anarchy: Music from Sons of Anarchy Seasons 1-4,16
+482,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,Come Join the Murder - From Sons of Anarchy,58,2014-12-22,Come Join the Murder (From Sons of Anarchy),1
+483,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,Oh Darlin' What Have I Done,56,2010-11-02,Prepare for Black and Blue - EP,5
+484,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,Wish It Was True,47,2012-02-28,Once Upon a Time in the West,13
+485,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,The Whistler,48,2013-09-03,"Shadows, Greys & Evil Ways",14
+486,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,Highwayman,53,2013-03-05,Highwayman,1
+487,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,I Am the Moon,51,2017-10-06,"Darkest Darks, Lightest Lights",10
+488,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,I Got You (feat. Audra Mae),43,2015-08-21,Love and the Death of Damnation,11
+489,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,The Woods,50,2009-03-24,Hogtied Revisited,12
+490,3ohcHMuUq1717s8AH17hfT,2023-12-21,The White Buffalo,515394,54,Set My Body Free,41,2013-09-03,"Shadows, Greys & Evil Ways",14
+491,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Stressed Out,88,2015-05-15,Blurryface,14
+492,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Heathens,84,2016-06-16,Heathens,1
+493,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Ride,84,2015-05-15,Blurryface,14
+494,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Tear in My Heart,76,2015-05-15,Blurryface,14
+495,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Chlorine,76,2018-10-05,Trench,14
+496,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Doubt,71,2015-05-15,Blurryface,14
+497,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,House of Gold,71,2013-01-08,Vessel,12
+498,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Car Radio,71,2013-01-08,Vessel,12
+499,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Heavydirtysoul,71,2015-05-15,Blurryface,14
+500,3YQKmKGau1PzlVlkL1iodx,2023-12-21,Twenty One Pilots,24109680,78,Shy Away,70,2021-05-21,Scaled And Icy,11
+501,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,I Wanna Be Yours,95,2013-09-09,AM,12
+502,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,505,87,2007-04-22,Favourite Worst Nightmare,12
+503,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,Why'd You Only Call Me When You're High?,90,2013-09-09,AM,12
+504,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,Do I Wanna Know?,89,2013-09-09,AM,12
+505,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,R U Mine?,84,2013-09-09,AM,12
+506,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,Fluorescent Adolescent,80,2007-04-22,Favourite Worst Nightmare,12
+507,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,Snap Out Of It,81,2013-09-09,AM,12
+508,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,Arabella,79,2013-09-09,AM,12
+509,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,Knee Socks,78,2013-09-09,AM,12
+510,7Ln80lUS6He07XvHI8qqHH,2023-12-21,Arctic Monkeys,22833932,85,Mardy Bum,77,2006-01-29,"Whatever People Say I Am, That's What I'm Not",13
+511,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,Everlong,86,1997-05-20,The Colour And The Shape,14
+512,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,The Pretender,81,2007-09-25,"Echoes, Silence, Patience & Grace",12
+513,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,Learn to Fly,79,1999-11-02,There Is Nothing Left To Lose,11
+514,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,Best of You,78,2005-06-14,In Your Honor,20
+515,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,My Hero,78,1997-05-20,The Colour And The Shape,14
+516,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,All My Life,75,2002-10-22,One By One (Expanded Edition),17
+517,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,Times Like These,71,2002-10-22,One By One (Expanded Edition),17
+518,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,Monkey Wrench,72,1997-05-20,The Colour And The Shape,14
+519,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,Walk,71,2011-04-12,Wasting Light,11
+520,7jy3rLJdDQY21OgRLCZ9sD,2023-12-21,Foo Fighters,11464590,76,Everlong - Acoustic Version,70,2009-11-03,Greatest Hits,16
+521,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,Highway to Hell,86,1979-07-27,Highway to Hell,10
+522,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,Thunderstruck,85,1990-09-24,The Razors Edge,12
+523,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,Back In Black,85,1980-07-25,Back In Black,10
+524,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,You Shook Me All Night Long,83,1980-07-25,Back In Black,10
+525,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,T.N.T.,79,1976-05-14,High Voltage,9
+526,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,Hells Bells,76,1980-07-25,Back In Black,10
+527,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,Shoot to Thrill,74,1980-07-25,Back In Black,10
+528,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,Dirty Deeds Done Dirt Cheap,75,1976-09-20,Dirty Deeds Done Dirt Cheap,9
+529,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),73,1976-05-14,High Voltage,9
+530,711MCceyCBcFnzjGY4Q7Un,2023-12-21,AC/DC,27753722,79,Rock N Roll Train,71,2008-10-20,Black Ice,15
+531,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,The Downfall Of Us All,71,2009-02-03,Homesick,12
+532,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,If It Means A Lot To You,71,2009-02-03,Homesick,12
+533,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,All I Want,70,2010-11-16,What Separates Me From You,10
+534,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,All Signs Point To Lauderdale,68,2010-11-16,What Separates Me From You,10
+535,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,"I'm Made Of Wax, Larry, What Are You Made Of?",67,2009-02-03,Homesick,12
+536,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,Miracle,66,2022-07-21,Miracle,1
+537,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,Have Faith In Me,65,2009-02-03,Homesick,12
+538,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,Paranoia,64,2016-09-02,Bad Vibrations (Deluxe Edition),13
+539,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,Mr. Highway's Thinking About The End,64,2009-02-03,Homesick,12
+540,4NiJW4q9ichVqL1aUsgGAN,2023-12-21,A Day To Remember,2287809,68,Since U Been Gone,64,2007-01-22,For Those Who Have Heart (Deluxe Edition),26
+541,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,Teenagers,84,2006-10-23,The Black Parade,14
+542,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,Welcome to the Black Parade,80,2006-10-23,The Black Parade,14
+543,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,I'm Not Okay (I Promise),79,2004-06-08,Three Cheers for Sweet Revenge,13
+544,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,Helena,79,2004-06-08,Three Cheers for Sweet Revenge,13
+545,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,Disenchanted,75,2006-10-23,The Black Parade,14
+546,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,Famous Last Words,75,2006-10-23,The Black Parade,14
+547,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,I Don't Love You,74,2006-10-23,The Black Parade,14
+548,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,The Ghost of You,73,2004-06-08,Three Cheers for Sweet Revenge,13
+549,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,Cancer,73,2006-10-23,The Black Parade,14
+550,7FBcuc1gsnv6Y1nwFtNRCb,2023-12-21,My Chemical Romance,8134779,76,Na Na Na (Na Na Na Na Na Na Na Na Na),71,2010-11-05,Danger Days: The True Lives of the Fabulous Killjoys,15
+551,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Do Fundo da Grota,60,2001-03-11,Meu Rio Grande É Desse Jeito,12
+552,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Nego Bom Não Se Mistura,47,2017-03-01,Rodeio Campeiro,15
+553,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Castração a Pialo,45,2010-03-10,Estampa de Galpão,13
+554,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Pedido de um Pai Pra Filho,44,2017-10-19,Marca de Campo,15
+555,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,História do Tico Louco,43,2001-03-11,Meu Rio Grande É Desse Jeito,12
+556,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Meu Rio Grande É Desse Jeito,36,2001-03-11,Meu Rio Grande É Desse Jeito,12
+557,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Reformando a Mulher Véia,41,2017-03-01,Rodeio Campeiro,15
+558,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Secretário de Obra,41,2017-10-19,Marca de Campo,15
+559,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,Mal Falquejado,41,2017-10-19,Marca de Campo,15
+560,3Qr4KjBoZj14d28vWulbA8,2023-12-21,Baitaca,130462,48,O Novo Encontro Com o Tico,40,2014-01-06,"O Melhor do Baitaca, Vol. 1",15
+561,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Cornfield Chase,77,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+562,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Time,74,2010-07-09,Inception (Music from the Motion Picture),12
+563,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Now We Are Free,65,2020-05-09,Gladiator: 20th Anniversary Edition,35
+564,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Day One (Interstellar Theme),70,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+565,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Pompeii MMXXIII,61,2023-07-14,Bad Blood X (10th Anniversary Edition),33
+566,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Honor Him,65,2020-05-09,Gladiator: 20th Anniversary Edition,35
+567,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,S.T.A.Y.,65,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+568,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Mountains,64,2014-11-18,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],30
+569,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack,64,2006-01-01,The Da Vinci Code,14
+570,0YC192cP3KPCRWx8zr8MfZ,2023-12-21,Hans Zimmer,3639148,75,This Land,63,1994-01-01,The Lion King,12
+571,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Baile do Bruxo,87,2023-09-29,Baile do Bruxo,6
+572,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Química Bandida,53,2021-06-25,Química Bandida,1
+573,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Oclin e Evoque,51,2020-12-22,Oclin e Evoque,1
+574,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,O Melhor Dia da Sua Vida é Hoje,51,2023-09-29,Baile do Bruxo,6
+575,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Ondinha da Amarula,49,2023-09-29,Baile do Bruxo,6
+576,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Coração,48,2023-09-29,Baile do Bruxo,6
+577,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Proibido Celular,47,2021-10-07,Proibido Celular,1
+578,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,R10 Faz um Convite,46,2023-09-29,Baile do Bruxo,6
+579,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Na Área dos Boys,46,2022-01-21,Na Área dos Boys,1
+580,4s3lxX76LwxzMdQEAFYdzv,2023-12-21,Tropa do Bruxo,183952,66,Todo Aleatório,46,2023-09-29,Baile do Bruxo,6
+581,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Faz um Vuk Vuk (Teto Espelhado),85,2023-07-20,Faz um Vuk Vuk (Teto Espelhado),1
+582,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Tá OK,84,2023-05-04,Tá OK,1
+583,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Tá OK (Remix),81,2023-08-03,Tá OK (Remix),2
+584,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Papin,76,2022-11-04,Tamborzão Raiz,8
+585,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Aquecimento Senta Senta Suave,73,2022-11-04,Tamborzão Raiz,8
+586,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Terror da Cidade,69,2023-06-20,Terror da Cidade,1
+587,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Poesia Acústica #7: Céu Azul,68,2019-07-06,Poesia Acústica #7: Céu Azul,1
+588,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Ela É do Tipo,67,2019-03-07,Ela É do Tipo,1
+589,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Incendeia,53,2022-08-10,Sonho de Garoto (Deluxe),20
+590,2UMj7NCbuqy1yUZmiSYGjJ,2023-12-21,MC Kevin o Chris,3121950,74,Vamos pra Gaiola,63,2019-01-11,Vamos pra Gaiola,1
+591,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Novidade na Área,82,2023-06-23,Novidade na Área,1
+592,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Homenagem Aos Relíquias 6,63,2023-11-16,Medo É Só Ilusão,15
+593,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Fazer Falta,67,2017-05-25,Fazer Falta,1
+594,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Pocotó,67,2023-07-06,Pocotó,1
+595,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Bailarina,66,2023-10-11,Bailarina,1
+596,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Modo Safado,59,2023-11-27,Modo Safado,1
+597,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Hoje Eu Vou Parar Na Gaiola,66,2018-10-17,Hoje Eu Vou Parar Na Gaiola,1
+598,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Se Prepara 2,65,2019-10-01,Se Prepara 2,1
+599,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Ela Vem,64,2019-06-18,Ela Vem,1
+600,7me0S5Z40qVWj3gzyK8aC3,2023-12-21,Mc Livinho,7372843,68,Na Movimentação (feat. Faixa Rosa),64,2022-08-11,Na Movimentação (feat. Faixa Rosa),1

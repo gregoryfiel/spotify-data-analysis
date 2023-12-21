@@ -210,6 +210,12 @@ class DataExporter():
             print(f"File not found: {e}")
         except json.JSONDecodeError as e:
             print(f"Error decoding JSON: {e}")
+            
+    def export_sql_to_csv(self, conn) -> None:
+        df = pd.read_sql_query("SELECT * FROM artists_data", conn)
+        path = self.conn.check_path("csv_files")
+        full_path = os.path.join(path, "artists_data.csv")
+        df.to_csv(full_path, index=False)
         
     def export_data(self) -> None:
         name_list = self.import_artists_names()
@@ -227,6 +233,7 @@ class DataExporter():
                 raise DataAlreadyExistsError(f"{num_duplicates} rows already exist in the database.")
             else:
                 df.to_sql("artists_data", con=conn, if_exists="append", index=False)
+                self.export_sql_to_csv(conn)
 
         finally:
             conn.close()
